@@ -1,0 +1,6 @@
+baseURL = "https://tomopalooza.com/"
+title = "Tomopalooza"
+theme = "my-theme"
+
+[params]
+  author = "Your Name"
