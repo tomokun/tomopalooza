@@ -24,3 +24,5 @@ jobs:
         fleek-organization-id: ${{ secrets.FLEEK_ORGANIZATION_ID }}
         fleek-sites: "wiki"
         fleek-directory: "./public"
+        fleek-hosting-api-key: ${{ secrets.FLEEK_HOSTING_API_KEY }}
+        fleek-storage-api-key: ${{ secrets.FLEEK_STORAGE_API_KEY }}
